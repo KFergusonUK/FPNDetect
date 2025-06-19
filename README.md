@@ -1,6 +1,6 @@
-# FPNDetect
+# FPNDetect - **** WORK IN PROGRESS ****
 Detect potential FPNs and S74s from Street Manager - Download All My Data files
-**** WORK IN PROGRESS ****
+
 
 Download the .exe file and place it in the folder you wish to run it from (Cut/Copy from teh Download folder to this folder).
 
